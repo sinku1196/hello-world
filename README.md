@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Sinku here, I like python and JavaScript.
+I like Ice-Cream
